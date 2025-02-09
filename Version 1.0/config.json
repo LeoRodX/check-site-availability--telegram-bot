@@ -1,0 +1,14 @@
+{
+    "token": "MY_TOKEN",
+    "id_url": "http://127.0.0.1:8080",
+    "site_url": "https://example.ru/",
+    "lkk_url": "http://127.0.0.1:5000/",
+    "check_interval": 3,
+    "email_from": "report_mail@yandex.ru",
+    "email_password": "mail_password",
+    "smtp_server": "smtp.yandex.ru",
+    "smtp_port": 587,
+    "email_to": "my_mail@yandex.ru",
+    "supervisor_id": "user_chat_id",
+    "duty_id": "duty_chat_id"
+}
