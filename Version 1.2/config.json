@@ -1,0 +1,16 @@
+{
+    "token": "MY_TOKEN",
+    "id_url": "http://127.0.0.1:8080",
+    "site_url": "https://example.ru/",
+    "lkk_url": "http://127.0.0.1:5000/",
+    "tracert_Rostelecom": "217.107.80.30",
+    "tracert_Beeline": "194.186.5.41",
+    "check_interval": 3,
+    "email_from": "my_mail@yandex.ru",
+    "email_password": "my_password",
+    "smtp_server": "smtp.yandex.ru",
+    "smtp_port": 587,
+    "email_to": "my2_mail@yandex.ru",
+    "supervisor_id": "my_user_id",
+    "duty_id": "duty_user_id"
+}
